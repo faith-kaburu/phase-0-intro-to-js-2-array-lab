@@ -28,7 +28,7 @@ initial value of `["Milo", "Otis", "Garfield"]`. In your functions, you will be
 accessing and manipulating this array.
 
 Near the top of `indexTest.js` you will see the following:
-
+~
 ```js
 beforeEach(function () {
   cats.length = 0;
